@@ -1,0 +1,27 @@
+
+# Google Colab / Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+
+# Jupyter Notebook temporary files
+*.nbconvert.ipynb
+
+# Model file / weight
+*.h5
+*.keras
+
+# OS-specific
+.DS_Store
+
+# Virtual environments
+env/
+venv/
+
+# Image hasil (opsional, hanya jika tidak ingin simpan)
+images/
