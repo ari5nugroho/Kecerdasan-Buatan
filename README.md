@@ -6,7 +6,7 @@ Proyek ini dibuat untuk memenuhi tugas **Ujian Akhir Semester** mata kuliah **Ke
 
 - **Nama** : Ari Nugroho
 - **NIM**  : 23.11.5796
-- **Kelas**: S1 Informatika - Semester 4
+- **Kelas**: IF07 S1 Informatika - Semester 4
 
 ##  Deskripsi Proyek
 
